@@ -2,13 +2,13 @@
 
 ## Descripción
 
-El **Lector de Texto** es una aplicación diseñada para leer texto en voz alta, lo que facilita la revisión de documentación extensa sin forzar la vista. Este proyecto nació de la necesidad de mejorar la productividad al permitir que los usuarios escuchen el contenido en lugar de leerlo continuamente. Es especialmente útil para aquellos que trabajan con una gran cantidad de documentación técnica, como estudiantes de ingeniería o desarrolladores de software.
+El **Lector de Texto** es una aplicación que desarrollé para ayudarme a lidiar con la gran cantidad de documentación que leo regularmente. Después de muchas horas de lectura, mis ojos se cansaban y me resultaba difícil mantener la concentración. Esta aplicación convierte texto en voz, permitiéndome escuchar la información en lugar de leerla, lo que ha aumentado significativamente mi productividad y ha reducido la fatiga visual.
 
 ## Características
 
-- **Lectura de texto**: Convierte texto escrito en voz hablada.
-- **Control de velocidad**: Ajusta la velocidad de lectura según la preferencia del usuario.
-- **Interfaz simple**: Fácil de usar y configurar.
+- **Lectura de texto**: Convierte cualquier texto en voz hablada.
+- **Control de velocidad**: Permite ajustar la velocidad de lectura según tus preferencias.
+- **Interfaz sencilla**: Diseñada para ser fácil de usar y configurar.
 
 ## Instalación
 
